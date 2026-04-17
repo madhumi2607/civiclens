@@ -21,7 +21,3 @@ CivicLens is a two-sided AI platform that transforms how Indian cities detect, p
 - **Database:** Supabase PostgreSQL + PostGIS (demo mode uses in-memory store)
 - **AI:** Claude Vision API (mock in demo), DBSCAN clustering
 - **Deployment:** Render
-
-## Team
-Built by **Team JARVIS** for FixForward by HYRUP
-- Madhumita Samiraj — SASTRA Deemed University
